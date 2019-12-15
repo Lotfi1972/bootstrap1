@@ -1,0 +1,71 @@
+body{ 
+    background:black}
+
+    .navbar {background:red!important;}
+
+#img1{
+    background-image: url(../res/images\ \(2\).jpg);
+    height: 300px;
+    width: 30%;
+    display: flex;
+    margin-left: 2%;
+    justify-content: center;
+    align-items: center;
+    }
+
+    #img2{
+        background-image: url(../res/images\ \(6\).jpg);
+        height: 300px;
+        width: 30%;
+        display: flex;
+        margin-left: 2%;    
+        justify-content: center;
+        align-items: center;
+        }
+        #img3{
+            background-image: url(../res/images\ \(4\).jpg);
+            height: 300px;
+            width: 30%;
+            display: flex;
+            margin-left: 2%;
+            justify-content: center;
+            align-items: center;
+            }
+            #img4{
+                background-image: url(../res/images\ \(5\).jpg);
+                height: 300px;
+                width: 30%;
+                display: flex;
+                margin-left: 2%;
+                justify-content: center;
+                align-items: center;
+                }
+                #img5{
+                    background-image: url(../res/images\ \(3\).jpg);
+                    height: 300px;
+                    width: 30%;
+                    display: flex;
+                    margin-left: 2%;
+                    justify-content: center;
+                    align-items: center;
+                    }
+                    #img6{
+                        background-image: url(../res/images\ \(8\).jpg);
+                        height: 300px;
+                        width: 30%;
+                        display: flex;
+                        margin-left: 2%;
+                        justify-content: center;
+                        align-items: center;
+                        }
+
+
+
+
+.image{
+    display:flex;
+}
+button {
+    display:none;
+}
+
